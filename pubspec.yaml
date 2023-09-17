@@ -1,0 +1,14 @@
+name: my_app  # あなたのアプリ名
+description: A new Flutter project  # オプション: アプリの説明
+version: 1.0.0+1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  xml: ^5.1.1
+  # url_launcher: ^6.0.12  # 新しく追加
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
